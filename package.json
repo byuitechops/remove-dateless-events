@@ -1,7 +1,7 @@
 {
-  "name": "child-template",
+  "name": "remove-dateless-events",
   "version": "1.0.0",
-  "description": "Put your child module's description here",
+  "description": "Delete calendar events that have no start & end time",
   "main": "main.js",
   "dependencies": {
     "async": "^2.6.1",
@@ -18,13 +18,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/byuitechops/child-template.git"
+    "url": "git+https://github.com/byuitechops/remove-dateless-events.git"
   },
-  "author": "Zachary Williams, Daniel Green",
+  "author": "Daniel Green",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/byuitechops/child-template/issues"
+    "url": "https://github.com/byuitechops/remove-dateless-events/issues"
   },
-  "homepage": "https://github.com/byuitechops/child-template#readme",
+  "homepage": "https://github.com/byuitechops/remove-dateless-events#readme",
   "childType": "postImport"
 }
